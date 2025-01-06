@@ -4,6 +4,9 @@ site_url: https://waste-collection-gmina-sroda-slaska.sciana.pro
 copyright: Copyright &copy; 2025 sciana.pro
 
 theme:
+  icon:
+    logo: material/truck-fast
+  favicon: assets/icon.svg
   name: material
   palette:
     primary: green
@@ -12,15 +15,22 @@ theme:
     text: Source Sans 3
   language: pl
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.instant.progress
     - navigation.prune
-    - navigation.indexes
+
+
+
 
 nav:
   - 'Home': index.md
 
 extra:
+  social:
+    - icon: material/home
+      link: https://waste-collection.sciana.pro
+    - icon: material/github
+      link: https://github.com/ksciana/waste_collection
   consent:
     title: Dbamy o Twoją prywatność
     description: >- 
@@ -31,7 +41,7 @@ extra:
       - manage
 
 plugins:
-  - search
+  - social
 
 markdown_extensions:
   - attr_list
