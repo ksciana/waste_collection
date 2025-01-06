@@ -47,4 +47,3 @@ Replace `LOCATION_ID` with following `Id`:
 | 4 | Brodno, Jastrzębce, Kobylniki, Lipnica, Lisiny, Odyniec, Rzeczyca, Słup, Szczepanów, Zakrzów | |
 | 5 | Środa Śląska 2 |  DLA NIERUCHOMOŚCI JEDNORODZINNYCH: Bluszczowa, Bociania, Chabrowa, Dworcowa, Fiołkowa, Goździkowa,Irysowa, Jastrzębia, Konwaliowa, Krucza,Legnicka, Leśna, Makowa, Miłosza, Mostowa, Nasturcjowa, Ogrodnicka,Orla, Reymonta, Rumiankowa, Sokola, Spółdzielcza, Storczykowa,Świdnicka,  św. Andrzeja, trakt św. Jakuba, Targowa, Tulipanowa, Waniliowa, Wiejska, Wrzosowa, Żurawia,01 Maja, Akacjowa, Do Termatu, Dębowa, Działkowa, Hallera, Jarzębinowa,Jaśminowa, Jesionowa, Kasztanowa,Klonowa, Kolejowa, Lipnicka, Lipowa, Malczycka,Miła, Młynarska, Na Polance, Ogrody Zamkowe, Traugutta, Sikorskiego, Spacerowa, Stacyjna, Topolowa, Żytnia |
 | 6 | Gozdawa, Jugowiec Juszczyn, Komorniki, Kryniczno,Kulin, Przedmoście, Święte, Rakoszyce, Wojczyce | |
-| 7 | Nieruchomości wielorodzinne | |
