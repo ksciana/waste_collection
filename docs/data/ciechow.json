@@ -1,0 +1,24 @@
+{
+    "region": {
+        "id": "3",
+        "name": "Bukówek, Cesarzowice, Chwalimierz, Ciechów, Ligotka, Michałów,  Pęczków,  Wrocisławice",
+        "garbage_kinds": [
+            {
+                "name": "Szkło",
+                "disposals": [
+                    { "date": "2025-01-14" },
+                    { "date": "2025-02-04" },
+                    { "date": "2025-03-04" }
+                ]
+            },
+            {
+                "name": "Papier",
+                "disposals": [
+                    { "date": "2025-01-28" },
+                    { "date": "2025-02-18" },
+                    { "date": "2025-03-18" }
+                ]
+            }
+        ]
+    }
+}
