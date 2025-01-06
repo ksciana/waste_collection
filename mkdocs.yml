@@ -3,6 +3,8 @@ site_url: https://waste-collection-gmina-sroda-slaska.sciana.pro
 
 copyright: Copyright &copy; 2025 sciana.pro
 
+repo_url: https://github.com/ksciana/waste_collection
+
 theme:
   icon:
     logo: material/truck-fast
@@ -15,15 +17,14 @@ theme:
     text: Source Sans 3
   language: pl
   features:
-    - navigation.instant
-    - navigation.instant.progress
-    - navigation.prune
+    - navigation.tabs
 
 
 
 
 nav:
   - 'Home': index.md
+  - 'API': api.md
 
 extra:
   social:
