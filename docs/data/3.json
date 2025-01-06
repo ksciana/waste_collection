@@ -1,0 +1,79 @@
+{
+    "region": {
+        "id": "3",
+        "name": "Bukówek, Cesarzowice, Chwalimierz, Ciechów, Ligotka, Michałów,  Pęczków,  Wrocisławice",
+        "garbage_kinds": [
+            {
+                "name": "Papier",
+                "disposals": [
+                    { "date": "2025-01-28" },
+                    { "date": "2025-02-18" },
+                    { "date": "2025-03-18" }
+                ]
+            },
+            {
+                "name": "Szkło",
+                "disposals": [
+                    { "date": "2025-01-14" },
+                    { "date": "2025-02-04" },
+                    { "date": "2025-03-04" }
+                ]
+            },
+            {
+                "name": "Odpady wielkogabarytowe",
+                "disposals": [
+                    { "date": "2025-01-18" },
+                    { "date": "2025-02-15" },
+                    { "date": "2025-03-15" }
+                ]
+            },
+            {
+                "name": "Zmieszane komunalne",
+                "disposals": [
+                    { "date": "2025-01-07" },
+                    { "date": "2025-01-14" },
+                    { "date": "2025-01-21" },
+                    { "date": "2025-01-28" },
+                    { "date": "2025-02-04" },
+                    { "date": "2025-02-11" },
+                    { "date": "2025-02-18" },
+                    { "date": "2025-02-25" },
+                    { "date": "2025-03-04" },
+                    { "date": "2025-03-11" },
+                    { "date": "2025-03-18" },
+                    { "date": "2025-03-25" }
+                ]
+            },
+            {
+                "name": "Odpady kuchenne ulegające biodegradacji",
+                "disposals": [
+                    { "date": "2025-01-07" },
+                    { "date": "2025-01-14" },
+                    { "date": "2025-01-21" },
+                    { "date": "2025-01-28" },
+                    { "date": "2025-02-04" },
+                    { "date": "2025-02-11" },
+                    { "date": "2025-02-18" },
+                    { "date": "2025-02-25" },
+                    { "date": "2025-03-04" },
+                    { "date": "2025-03-11" },
+                    { "date": "2025-03-18" },
+                    { "date": "2025-03-25" }
+                ]
+            },
+            {
+                
+                "name": "Tworzywa sztuczne",
+                "disposals": [
+                    { "date": "2025-01-07" },
+                    { "date": "2025-01-21" },
+                    { "date": "2025-02-11" },
+                    { "date": "2025-02-25" },
+                    { "date": "2025-03-11" },
+                    { "date": "2025-03-25" }
+                ]
+            },
+            }
+        ]
+    }
+}
