@@ -2,7 +2,6 @@ site_name: Waste collection Gmina Środa Śląska
 site_url: https://waste-collection-gmina-sroda-slaska.sciana.pro
 
 copyright: Copyright &copy; 2025 sciana.pro
-
 repo_url: https://github.com/ksciana/waste_collection
 
 theme:
