@@ -10,6 +10,7 @@ theme:
     logo: material/truck-fast
   favicon: assets/icon.svg
   name: material
+  custom_dir: overrides
   palette:
     primary: green
     accent: green
@@ -32,6 +33,8 @@ extra:
       link: https://waste-collection.sciana.pro
     - icon: material/github
       link: https://github.com/ksciana/waste_collection
+    - icon: material/coffee
+      link: https://buycoffee.to/ksciana
   consent:
     title: Dbamy o Twoją prywatność
     description: >- 

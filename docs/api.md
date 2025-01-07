@@ -8,12 +8,12 @@ hide:
 
 Url to data
 ```
-https://waste-collection.sciana.pro/data/LOCATION_ID.json
+https://waste-collection.sciana.pro/data/v1/LOCATION_ID.json
 ```
 
 ## Example
 
-fetch: https://waste-collection.sciana.pro/data/3.json
+fetch: https://waste-collection.sciana.pro/data/v1/3.json
 
 result:
 ```json
