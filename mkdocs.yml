@@ -31,7 +31,7 @@ extra:
       link: https://github.com/ksciana/waste_collection
     - icon: material/coffee
       link: https://buycoffee.to/ksciana
-    analytics:
+  analytics:
     provider: google
     property: G-PP3RV1FM30
   consent:
