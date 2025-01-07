@@ -1,0 +1,78 @@
+{
+    "region": {
+        "id": "4",
+        "name": "Brodno, Jastrzębce, Kobylniki, Lipnica, Lisiny, Odyniec, Rzeczyca, Słup, Szczepanów, Zakrzów",
+        "garbage_kinds": [
+            {
+                "name": "Papier",
+                "disposals": [
+                    { "date": "2025-01-29" },
+                    { "date": "2025-02-19" },
+                    { "date": "2025-03-19" }
+                ]
+            },
+            {
+                "name": "Szkło",
+                "disposals": [
+                    { "date": "2025-01-15" },
+                    { "date": "2025-02-05" },
+                    { "date": "2025-03-05" }
+                ]
+            },
+            {
+                "name": "Odpady wielkogabarytowe",
+                "disposals": [
+                    { "date": "2025-01-18" },
+                    { "date": "2025-02-15" },
+                    { "date": "2025-03-15" }
+                ]
+            },
+            {
+                "name": "Zmieszane komunalne",
+                "disposals": [
+                    { "date": "2025-01-08" },
+                    { "date": "2025-01-15" },
+                    { "date": "2025-01-22" },
+                    { "date": "2025-01-29" },
+                    { "date": "2025-02-05" },
+                    { "date": "2025-02-12" },
+                    { "date": "2025-02-19" },
+                    { "date": "2025-02-26" },
+                    { "date": "2025-03-05" },
+                    { "date": "2025-03-12" },
+                    { "date": "2025-03-19" },
+                    { "date": "2025-03-26" }
+                ]
+            },
+            {
+                "name": "Odpady kuchenne ulegające biodegradacji",
+                "disposals": [
+                    { "date": "2025-01-04" },
+                    { "date": "2025-01-15" },
+                    { "date": "2025-01-22" },
+                    { "date": "2025-01-29" },
+                    { "date": "2025-02-05" },
+                    { "date": "2025-02-12" },
+                    { "date": "2025-02-19" },
+                    { "date": "2025-02-26" },
+                    { "date": "2025-03-05" },
+                    { "date": "2025-03-12" },
+                    { "date": "2025-03-19" },
+                    { "date": "2025-03-26" }
+                ]
+            },
+            {
+                
+                "name": "Tworzywa sztuczne",
+                "disposals": [
+                    { "date": "2025-01-08" },
+                    { "date": "2025-01-22" },
+                    { "date": "2025-02-12" },
+                    { "date": "2025-02-26" },
+                    { "date": "2025-03-12" },
+                    { "date": "2025-03-26" }
+                ]
+            }
+        ]
+    }
+}
