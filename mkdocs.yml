@@ -20,9 +20,6 @@ theme:
   features:
     - navigation.tabs
 
-
-
-
 nav:
   - 'Home': index.md
   - 'API': api.md
@@ -35,6 +32,9 @@ extra:
       link: https://github.com/ksciana/waste_collection
     - icon: material/coffee
       link: https://buycoffee.to/ksciana
+    analytics:
+    provider: google
+    property: G-PP3RV1FM30
   consent:
     title: Dbamy o Twoją prywatność
     description: >- 
