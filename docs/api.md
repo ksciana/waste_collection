@@ -8,7 +8,7 @@ hide:
 
 Url to data
 ```
-https://waste-collection.sciana.pro/data/v1/LOCATION_ID.json
+https://waste-collection.sciana.pro/api/v1/LOCATION_ID.json
 ```
 
 ## Example
