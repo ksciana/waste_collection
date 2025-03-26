@@ -1,4 +1,4 @@
-# Contributing to [waste_collection]
+# Contributing to `waste_collection`
 
 Thank you for your interest in our project! Every contribution is welcome. 
 Please follow the guidelines below when making changes to the repository.
