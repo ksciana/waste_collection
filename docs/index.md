@@ -33,7 +33,7 @@ waste_collection_schedule:
   sources:
     - name: gmina_sroda_slaska_pl
       args:
-        location_id: 8
+        location_id: 3
 ```
 
 ## Location definition
