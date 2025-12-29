@@ -1,7 +1,7 @@
 {
     "data": {
-        "id": "3",
-        "name": "Bukówek, Cesarzowice, Chwalimierz, Ciechów, Ligotka, Michałów, Pęczków, Wrocisławice, Ogrodnica, Środa Śląska (ulice: Reymonta, Miłosza, Ogrodnicka)",
+        "id": "ogrodnica",
+        "name": "Ogrodnica (wraz z gabarytami)",
         "garbage_kinds": [
             {
                 "name": "Papier",
@@ -28,6 +28,8 @@
             {
                 "name": "Odpady wielkogabarytowe",
                 "disposals": [
+                    { "date": "2026-02-14" },
+                    { "date": "2026-05-16" }
                 ]
             },
             {
