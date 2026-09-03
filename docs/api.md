@@ -13,35 +13,35 @@ https://waste-collection.sciana.pro/api/v1/LOCATION_ID.json
 
 ## Example
 
-fetch: https://waste-collection.sciana.pro/api/v1/3.json
+fetch: https://waste-collection.sciana.pro/api/v1/3brodnojson
 
 result:
 ```json
 {
     "data": {
-        "id": "3",
-        "name": "Bukówek, Cesarzowice, Chwalimierz, Ciechów, Ligotka, Michałów, Pęczków, Wrocisławice, Ogrodnica, Środa Śląska (ulice: Reymonta, Miłosza, Ogrodnicka)",
+        "id": "brodno",
+        "name": "Brodno",
         "garbage_kinds": [
             {
-                "name": "Papier",
+                "name": "Papier zabudowa jednorodzinna",
                 "disposals": [
-                    { "date": "2026-01-13" },
-                    { "date": "2026-02-10" },
-                    { "date": "2026-03-10" },
-                    { "date": "2026-04-14" },
-                    { "date": "2026-05-12" },
-                    { "date": "2026-06-09" }
+                    { "date": "2026-09-09" },
+                    { "date": "2026-10-07" },
+                    { "date": "2026-11-04" },
+                    { "date": "2026-12-02" }
                 ]
             },
             {
-                "name": "Szkło",
+                "name": "Papier zabudowa wielorodzinna",
                 "disposals": [
-                    { "date": "2026-01-27" },
-                    { "date": "2026-02-27" },
-                    { "date": "2026-03-24" },
-                    { "date": "2026-04-28" },
-                    { "date": "2026-05-26" },
-                    { "date": "2026-06-23" }
+                    { "date": "2026-09-09" },
+                    { "date": "2026-09-26" },
+                    { "date": "2026-10-07" },
+                    { "date": "2026-10-24" },
+                    { "date": "2026-11-04" },
+                    { "date": "2026-11-21" },
+                    { "date": "2026-12-02" },
+                    { "date": "2026-12-19" }
                 ]
             },
 ...

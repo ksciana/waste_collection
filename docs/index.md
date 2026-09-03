@@ -33,7 +33,7 @@ waste_collection_schedule:
   sources:
     - name: gmina_sroda_slaska_pl
       args:
-        location_id: 3
+        location_id: brodno
 ```
 
 ## Location definition
@@ -42,11 +42,33 @@ Replace `LOCATION_ID` with following `Id`:
 
 | Id | Location | Details |
 | --: | --- | --- |
-| 1 | Środa Śląska 1 | Cmentarna, Czereśniowa, Daszyńskiego, Górna, Gruszkowa, Jabłkowa, Kajakowa, Kilińskiego, Konstytucji 3 Maja, Korczaka, Łąkowa, Mleczarska, Morelowa, Parkowa, Partyzantów, Plac Solny, Plac Wolności, Spokojna, Stawowa, Strzelecka, Śliwkowa, Wąska, Wierzbowa, Winogronowa, Wrocławska, Zaciszna, Baczyńskiego, Basztowa, Białoskornicza, Boya-Żeleńskiego, Brodatego, Chwalimierska, Dojazdowa, Flamandzka, Floriańska, Jana ze Środy, Karnasa, Kopernika, Korwina, Kościuszki, Kościelna, Księżnej Jadwigi, Księżycowa, Łanowa, Mickiewicza, Ogrodowa, Oławska, Piastów Śląskich, Przyszkolna, Rakoszycka, Różana, Skłodowskiej-Curie, skwer Zesłańców Sybiru, Słoneczna, Słowackiego, Szkolna, Śląska, Willowa, Winnicza, Wiśniowa, Żwirki i Wigury |
-| 2 | Proszków | |
-| 3 | Bukówek, Cesarzowice, Chwalimierz, Ciechów, Ligotka, Michałów, Pęczków, Wrocisławice, Ogrodnica, **Środa Śląska** (ulice: Reymonta, Miłosza, Ogrodnicka) | BEZ GABARYTÓW |
-| 4 | Brodno, Jastrzębce, Kobylniki, Lipnica, Lisiny, Odyniec, Rzeczyca, Słup, Szczepanów, Zakrzów | BEZ GABARYTÓW |
-| 5 | Środa Śląska 2 | Bluszczowa, Bociania, Chabrowa, Dworcowa, Fiołkowa, Goździkowa, Irysowa, Jastrzębia, Konwaliowa, Krucza, Legnicka, Leśna, Makowa, Mostowa, Nasturcjowa, Orla, Rumiankowa, Sokola, Spółdzielcza, Storczykowa, Świdnicka, św. Andrzeja, trakt św. Jakuba, Targowa, Tulipanowa, Waniliowa, Wiejska, Wrzosowa, Żurawia, 1 Maja, Akacjowa, Do Termatu, Dębowa, Działkowa, Hallera, Jarzębinowa, Jaśminowa, Jesionowa, Kasztanowa, Klonowa, Kolejowa, Lipnicka, Lipowa, Malczycka, Miła, Młynarska, Na Polance, Ogrody Zamkowe, Traugutta, Sikorskiego, Spacerowa, Stacyjna, Topolowa, Żytnia |
-| 6 | Gozdawa, Jugowiec Juszczyn, Komorniki, Kryniczno,Kulin, Przedmoście, Święte, Rakoszyce, Wojczyce | BEZ GABARYTÓW |
+| brodno | Brodno | |
+| bukowek | Bukówek | |
+| cesarzowice | Cesarzowice | |
+| chwalimierz | Chwalimierz | |
 | ciechow | Ciechów | |
+| gozdawa | Gozdawa | |
+| jastrzebce | Jastrzębce | |
+| jugowiec | Jugowiec | |
+| juszczyn | Juszczyn | |
+| kobylniki | Kobylniki | |
+| komorniki | Komorniki | |
+| kryniczno | Kryniczno | |
+| kulin | Kulin | |
+| ligotka | Ligotka | |
+| lipnica | Lipnica | |
+| lisiny | Lisiny | |
+| michalow | Michałów | |
+| odyniec | Odyniec | |
 | ogrodnica | Ogrodnica | |
+| peczkow | Pęczków | |
+| proszkow | Proszków | |
+| przedmoscie | Przedmoście | |
+| rakoszyce | Rakoszyce | |
+| rzeczyca | Rzeczyca | |
+| sroda_sl_i_rejon | Środa Śląska I rejon | Środa Śląska Rej I: Baczyńskiego, Basztowa, Białoskórnicza, Boya-Żeleńskiego, Brodatego H., Chwalimierska, Cmentarna, Czereśniowa, Daszyńskiego, Dojazdowa, Flamandzka, Floriańska, Górna, Gruszkowa, Jabłkowa, Jagiellońska, Kajakowa, Karnasa, Kilińskiego, Konstytucji 3 Maja, Kopernika, Korwina, Kościuszki, Księżnej Jadwigi, Księżycowa, Łanowa, Łąkowa, Mickiewicza, Mleczarska, Morelowa, Ogrodowa, Oławska, Parkowa, Partyzantów, Piastów Śląskich, Plac Solny, Plac Wolności, Probusa H., Przyszkolna, Rakoszycka, Różana, Skłodowskiej-Curie, Słoneczna, Słowackiego, Spokojna, Stawowa, Strzelecka, Szkolna, Śląska, Śliwkowa, Wąska, Wierzbowa, Willowa, Winnicza, Winogronowa, Wiśniowa, Wrocławska, Zaciszna, Żwirki i Wigury. |
+| sroda_sl_ii_rejon | Środa Śląska II rejon |  Środa Śląska Rej II: 1 Maja, Akacjowa, Bluszczowa, Bociania, Chabrowa, Dębowa, Działkowa, Fiołkowa, Goździkowa, Hallera, Irysowa, Jarzębinowa, Jastrzębia, Jaśminowa, Jesionowa, Kasztanowa, Klonowa, Kolejowa, Konwaliowa, Krucza, Legnicka, Lipowa, Makowa, Malczycka, Miła, Młynarska, Mostowa, Na Polance, Nasturcjowa, Ogrody Zamkowe, Orla, Rumiankowa, Sikorskiego, Sokola, Spacerowa, Spółdzielcza, Stacyjna, Storczykowa, Św. Andrzeja, Świdnicka, Targowa, Topolowa, Trakt św. Jakuba, Traugutta, Tulipanowa, Waniliowa, Wiejska, Wrzosowa, Żurawia |
+| sroda_sl_milosza | Środa Śl. Miłosza | |
+| sroda_sl_ogrodnicka | Środa Śl. Ogrodnicka | |
+| sroda_sl_reymonta | Środa Śl. Reymonta | |
+| swiete | Święte | |
