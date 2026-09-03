@@ -1,0 +1,94 @@
+{
+    "data": {
+        "id": "brodno",
+        "name": "Brodno",
+        "garbage_kinds": [
+            {
+                "name": "Papier zabudowa jednorodzinna",
+                "disposals": [
+                    { "date": "2026-09-09" },
+                    { "date": "2026-10-07" },
+                    { "date": "2026-11-04" },
+                    { "date": "2026-12-02" }
+                ]
+            },
+            {
+                "name": "Papier zabudowa wielorodzinna",
+                "disposals": [
+                    { "date": "2026-09-09" },
+                    { "date": "2026-09-26" },
+                    { "date": "2026-10-07" },
+                    { "date": "2026-10-24" },
+                    { "date": "2026-11-04" },
+                    { "date": "2026-11-21" },
+                    { "date": "2026-12-02" },
+                    { "date": "2026-12-19" }
+                ]
+            },
+            {
+                "name": "Szkło",
+                "disposals": [
+                    { "date": "2026-09-23" },
+                    { "date": "2026-10-21" },
+                    { "date": "2026-11-18" },
+                    { "date": "2026-12-16" }
+                ]
+            },
+            {
+                "name": "Tekstylia i odzież",
+                "disposals": [
+                    { "date": "2026-09-12" },
+                    { "date": "2026-12-12" }
+                ]
+            },
+            {
+                "name": "Odpady wielkogabarytowe",
+                "disposals": [
+                    { "date": "2026-10-07" }
+                ]
+            },
+            {
+                "name": "Zmieszane komunalne",
+                "disposals": [
+                    { "date": "2026-09-07" },
+                    { "date": "2026-09-21" },
+                    { "date": "2026-10-05" },
+                    { "date": "2026-10-19" },
+                    { "date": "2026-11-02" },
+                    { "date": "2026-11-16" },
+                    { "date": "2026-11-30" },
+                    { "date": "2026-12-14" },
+                    { "date": "2026-12-28" }
+                ]
+            },
+            {
+                "name": "Odpady kuchenne (BIO)",
+                "disposals": [
+                    { "date": "2026-09-07" },
+                    { "date": "2026-09-21" },
+                    { "date": "2026-10-05" },
+                    { "date": "2026-10-19" },
+                    { "date": "2026-11-02" },
+                    { "date": "2026-11-16" },
+                    { "date": "2026-11-30" },
+                    { "date": "2026-12-14" },
+                    { "date": "2026-12-28" }
+                ]
+            },
+            {
+                "name": "Tworzywa sztuczne",
+                "disposals": [
+                    { "date": "2026-09-08" },
+                    { "date": "2026-09-22" },
+                    { "date": "2026-10-06" },
+                    { "date": "2026-10-20" },
+                    { "date": "2026-11-03" },
+                    { "date": "2026-11-17" },
+                    { "date": "2026-12-01" },
+                    { "date": "2026-12-15" },
+                    { "date": "2026-12-29" }
+                ]
+            }
+        ]
+    }
+}
